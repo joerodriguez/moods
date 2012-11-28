@@ -1,1 +1,1 @@
-{"conditions":[{"name":"MS","id":1},{"name":"Epilepsy","id":3},{"name":"ALS","id":2},{"name":"Psoriasis","id":4}]}
+window.conditions = [{"name":"MS","id":1},{"name":"Epilepsy","id":3},{"name":"ALS","id":2},{"name":"Psoriasis","id":4}]
